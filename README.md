@@ -28,10 +28,11 @@ Feedback, comments, code, ideas, brainstorming, discussion, etc all very welcome
 
 # FAQ
 
-1. Why present this in a UWP demo?
+### Why present this in a UWP demo?
+
 - Because even though we might have to navigate a maze of twisty little passages, all roads in the 10UWP Organization lead to UWP
 
-2. What is the target audience of this project?
+### What is the target audience of this project?
 - Humans that have not yet been infected with the Dilbert Virus.
 - mild technical level - appreciating the inherent parody in [FizzBuzz Enterprise Edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) requires too much base knowledge for example and for anyone sitting on the cusp of that knowledge, runs the risk of not seeing the parody and actually adopting the style as a model.
 
