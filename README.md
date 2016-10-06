@@ -1,4 +1,26 @@
-# Introduction
+# FizzBusted UWP
+
+# FAQ
+
+### Why present this in a UWP demo?
+
+- Because even though we might have to navigate a maze of twisty little passages, all roads in the 10UWP Organization lead to UWP
+
+### What is the target audience of this project?
+- Humans that want to discover UWP programming as a fun, playful, enjoyable medium of expression
+- Humans that have not yet been infected with the Dilbert Virus.
+- mild technical level - appreciating the inherent parody in [FizzBuzz Enterprise Edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) requires too much base knowledge for example and for anyone sitting on the cusp of that knowledge, runs the risk of not seeing the parody and actually adopting the style as a model.
+
+# Technology Demonstrated
+
+- UWP
+- [Microsoft UWP Community Toolkit](https://github.com/Microsoft/UWPCommunityToolkit)
+- [WasLibs](https://github.com/wasteam/waslibs)
+- [Composition](https://github.com/Microsoft/WindowsUIDevLabs) and [composition surface factory](https://github.com/robmikh/compositionsurfacefactory) and [Composition Pro Toolkit](https://github.com/ratishphilip/CompositionProToolkit)
+- [Win2D](https://github.com/Microsoft/Win2D)
+
+
+# FizzBuzz Background
 
 ### FizzBusted
 Exploring the mystery of the FizzBuzz Meme and that the Horrors might be in the testers themselves
@@ -28,23 +50,7 @@ Feedback, comments, code, ideas, brainstorming, discussion, etc all very welcome
 - testing anything at all inevitably leads to selection based on testing which to the clueless seems like a desired outcome but in the end your are mostly selecting for ability to navigate artificial tests!
 - similar to the problem of "testing selection" there is the meta result of "Mono Culture" in an organization. This is why Google has dropped its mythically famous programmer testing which they found (rather obviously IMO) that they ended up with excellent test takers and identical thinkers all talented to a huge degree in those areas but not contributing to the diversity and progress of the organizaton.
 
-# FAQ
 
-### Why present this in a UWP demo?
-
-- Because even though we might have to navigate a maze of twisty little passages, all roads in the 10UWP Organization lead to UWP
-
-### What is the target audience of this project?
-- Humans that have not yet been infected with the Dilbert Virus.
-- mild technical level - appreciating the inherent parody in [FizzBuzz Enterprise Edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) requires too much base knowledge for example and for anyone sitting on the cusp of that knowledge, runs the risk of not seeing the parody and actually adopting the style as a model.
-
-# Technology Demonstrated
-
-- UWP
-- [Microsoft UWP Community Toolkit](https://github.com/Microsoft/UWPCommunityToolkit)
-- [WasLibs](https://github.com/wasteam/waslibs)
-- [Composition](https://github.com/Microsoft/WindowsUIDevLabs) and [composition surface factory](https://github.com/robmikh/compositionsurfacefactory) and [Composition Pro Toolkit](https://github.com/ratishphilip/CompositionProToolkit)
-- [Win2D](https://github.com/Microsoft/Win2D)
 
 
 # Misc
