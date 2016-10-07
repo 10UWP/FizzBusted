@@ -11,6 +11,20 @@
 - Humans that have not yet been infected with the Dilbert Virus.
 - mild technical level - appreciating the inherent parody in [FizzBuzz Enterprise Edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) requires too much base knowledge for example and for anyone sitting on the cusp of that knowledge, runs the risk of not seeing the parody and actually adopting the style as a model.
 
+### I have to pass the dreaded FizzBuzz test tomorrow, what can I do?
+
+- First, you are NOT the target audience for this project
+- No human being wants to be degraded, so as a general indicator, any organization that wants to do this to you is probably one you should avoid, because most likely they have a poisonous culture, attitude, environment or all three. So don't take the test would be the logical choice. You can handle this politely by offerring to perform some actually useful task for humanity, or make a charitable donation in their name to the Don't Be Evil Foundation.
+- Do the test at home on your own computer  to see if you might have the common condition of Performance Anxiety. If you do, you will most likely be a happier person by seeking out specific counseling for that. If under no stress and using all the instructional Power of the Internet, the steps to complete FizzBuzz are confusing you, then look up online courses in a million other careers or learn a different programming language than PHP. We all suggest C# in this neck of the woods.
+
+### I am an evil administrator of degrading FizzBuzz tests and would like to overcome my serious addiction problem to viewing life through the eyes of the Teachers Union.
+
+- First, you are NOT the target audience for this project until you receive treatment for your problem.
+- The World is NOT actually a hierarchly of helpless student cannon fodder waiting to pass the next test.
+- You might be able to wean yourself off the addiction in stages of decreasing evilness.
+- My suggested alternative to those who are compelled to see life as a series of trial by fire is to morph your trial from the utter triviality of FizzBuzz into something that benefits humanity and appears to satisfy your addiction at the same time. Simply ask anyone that you would like to grok from a prgramming point of view to construct some potentially useful code and upload it to github with a MIT License. The catch for you is that you must obligate yourself to partner with this person by filing issue requests and really actually using the code in your organization. We all benefit. A human being can provide a tiny useful creation and hopefully not feel degraded in the process. You have made the transition from confrontation to cooperation. Congrats.
+
+
 # Technology Demonstrated
 
 - UWP
