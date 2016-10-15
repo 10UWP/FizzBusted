@@ -2,6 +2,12 @@
 
 # FAQ
 
+### What is FizzBuzz?
+- First, you are NOT the target audience for this project
+- But in short it is a demeaning, degrading, offensive, antagonistic, micro-agression test procedure that many organizations give to prospective members with the surface reason of judging programming/codong/development skills.
+- FizzBuzz is the ultimate expression of a test obsessed classroom oriented society and is rarely even questioned. It is just another meaningless test out of the millions of tests used to pound the creativity of the average citizen into a useless potatoe mash by the time they have graduated University.
+- So here it is: you count to some number like 100 and if the count is divisible by 3 you print "Fizz" and divisible by 5, you print "Buzz" and divisible by both, you get to print out "FizzBuzz" or some supid variation of that. It is the equivilent to "starting the engine" in a Driving Test.
+
 ### Why present this in a UWP demo?
 
 - Because even though we might have to navigate a maze of twisty little passages, all roads in the 10UWP Organization lead to UWP
